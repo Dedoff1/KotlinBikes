@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Сохранить" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Название" />
+
+    <EditText
+        android:id="@+id/editTextPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Цена"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Описание" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 1" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 2" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 3" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 4" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 5" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 6" />
+
+    <EditText
+        android:id="@+id/editTextImageUrl7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="URL изображения 7" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722634647402",
+    "project_id": "bikes-3111e",
+    "storage_bucket": "bikes-3111e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722634647402:android:e95c96bc12aa048d3e2713",
+        "android_client_info": {
+          "package_name": "com.example.bikes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQVt4cYFbc6ylU2l0HnnC1f923RU762w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

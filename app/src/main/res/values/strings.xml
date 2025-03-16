@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bikes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">Enter Your Email .....</string>
+    <string name="enter_your_pass">Enter Your Password .....</string>
+    <string name="re_enter_your_pass">Re-enter Your Password .....</string>
+    <string name="enter_your_name">Enter Your Name .....</string>
+    <string name="enter_your_surname">Enter Your Surname .....</string>
+    <string name="enter_your_middle_name">Enter Your Email .....</string>
+    <string name="enter_your_age">Enter Your Age .....</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number .....</string>
+    <string name="enter_your_country">Enter Your Country .....</string>
+    <string name="enter_your_city">Enter Your City .....</string>
+    <string name="enter_your_street">Enter Your Street .....</string>
+    <string name="enter_your_Sex">Enter Your Sex .....</string>
+    <string name="enter_additional_information">Enter additional information .....</string>
+    <string name="bike_image_description">Some additional data info</string>
+    <string name="back_to_catalog">Back to Catalog</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+</resources>
