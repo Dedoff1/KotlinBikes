@@ -1,1 +1,1 @@
-First lab of mobile programming.
+Main lab of mobile programming university course.
